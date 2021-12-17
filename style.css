@@ -185,11 +185,11 @@ a:hover {
   border-radius: 3%;
 }
 
-.container:hover .image {
+.container-new:hover .image {
   opacity: 1;
 }
 
-.container:hover .middle {
+.container-new:hover .middle {
   opacity: 0.4;
 }
 
